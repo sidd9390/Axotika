@@ -105,6 +105,6 @@ function updateImageSource() {
         image1.src = 'images/blueberry.png';
     } else {
         image.src = 'images/orangemn.png';
-        image1.src = 'images/blueberrym.png'; // Original image source
+        image1.src = 'images/blueberrymedited.png'; // Original image source
     }
 }
