@@ -818,7 +818,7 @@ body.menu-open {
 .default-content {
     background-color: #232931;
     text-align: center;
-    padding: 10rem 3.5rem 8rem;
+    padding: 10rem 3.5rem 5rem;
 }
 
 .default-content .lg-text {
@@ -832,7 +832,7 @@ body.menu-open {
 }
 
 .default-content .normal-text {
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
 }
 
 .lg-text {
@@ -905,7 +905,7 @@ body.menu-open {
 .clients-section {
     background-color: #fff;
     text-align: left;
-    padding: 10rem 10rem 3rem;
+    padding: 5rem 5rem 3rem;
 }
 
 .clients-section .lg-text {
