@@ -905,7 +905,7 @@ body.menu-open {
 .clients-section {
     background-color: #fff;
     text-align: left;
-    padding: 3rem 3rem 3rem;
+
 }
 
 .clients-section .lg-text {
@@ -942,11 +942,11 @@ body.menu-open {
     -webkit-flex: 1 1 25%;
     -ms-flex: 1 1 25%;
     flex: 1 1 25%;
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
 }
 
 .clients-section .clients-logos .logo-holder img {
-    max-height: 2.8rem;
+    max-height: 3rem;
 }
 
 /* -----------------------------------
@@ -955,7 +955,7 @@ body.menu-open {
 .other-content {
     background-color: #393E46;
     text-align: center;
-    padding: 4rem 3.5rem 3rem;
+    padding: 3rem 1rem 2rem;
 }
 
 .other-content .lg-text {
@@ -969,7 +969,7 @@ body.menu-open {
 }
 
 .other-content .normal-text {
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 /* -----------------------------------
@@ -1732,7 +1732,7 @@ body.menu-open {
         -webkit-flex: 1 1 25%;
         -ms-flex: 1 1 25%;
         flex: 1 1 25%;
-        margin-bottom: 3rem;
+        margin-bottom: 4rem;
     }
 
     .clients-section .clients-logos .logo-holder img {
@@ -2025,7 +2025,7 @@ body.menu-open {
     }
 
     .clients-section {
-        padding: 6rem 5rem 5rem;
+        padding: 3rem 5rem 3rem;
     }
 
     .clients-section .clients-logos .logo-holder img {
@@ -2033,11 +2033,11 @@ body.menu-open {
     }
 
     .default-content {
-        padding: 10rem 2rem 8rem;
+        padding: 6rem 2rem 6rem;
     }
 
     .other-content {
-        padding: 6rem 2rem;
+        padding: 3rem 2rem;
     }
 
     .footer {
@@ -2312,7 +2312,7 @@ body.menu-open {
     }
 
     .clients-section {
-        padding: 6rem 2rem;
+        padding: 3rem 2rem;
     }
 
     .clients-section .clients-logos .logo-holder {
@@ -2396,4 +2396,8 @@ svg{
     height:100%;
     width: 100%;
 
+}
+
+.cart-link:hover{
+    text-decoration: none;
 }
