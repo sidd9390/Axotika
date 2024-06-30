@@ -350,7 +350,7 @@ body.menu-open {
 .header {
     background-color: #232931;
     text-align: center;
-    padding: 8rem 3.5rem 8rem;
+    padding: 10rem 3.5rem 10rem;
 }
 
 .header .mouse-scroll {
@@ -2002,7 +2002,7 @@ body.menu-open {
     }
 
     .header {
-        padding: 8rem 2rem 5rem;
+        padding: 8rem 2rem 8rem;
     }
 
     .extra-lg-text {
