@@ -2257,7 +2257,7 @@ body.menu-open {
     .menu-toggle {
         left: inherit;
         right: 1.5rem;
-        top: 3.1rem;
+        top: 2.8rem;
     }
 
     .menu-toggle.open {
