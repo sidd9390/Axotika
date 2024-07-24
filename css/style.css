@@ -818,7 +818,7 @@ body.menu-open {
 .default-content {
     background-color: #232931;
     text-align: center;
-    padding: 6rem 3.5rem 3rem;
+    padding: 5rem 3.5rem 3rem;
 }
 
 .default-content .lg-text {
@@ -955,7 +955,7 @@ body.menu-open {
 .other-content {
     background-color: #393E46;
     text-align: center;
-    padding: 3rem 1rem 2rem;
+    padding: 3rem 1rem 1rem;
 }
 
 .other-content .lg-text {
@@ -1507,7 +1507,7 @@ body.menu-open {
 .footer {
     background-color: #232931;
     text-align: center;
-    padding: 10rem 8rem 8rem;
+    padding: 5rem 4rem 4rem;
 }
 
 .footer .lg-text {
@@ -1720,7 +1720,7 @@ body.menu-open {
     }
 
     .boxy.simple-data {
-        padding: 7rem 6rem;
+        padding: 3rem 2rem;
     }
 
     .clients-section {
@@ -2033,15 +2033,15 @@ body.menu-open {
     }
 
     .default-content {
-        padding: 6rem 2rem 6rem;
+        padding: 3rem 2rem 2rem;
     }
 
     .other-content {
-        padding: 3rem 2rem;
+        padding: 1rem 2rem;
     }
 
     .footer {
-        padding: 6rem 2rem 6rem;
+        padding: 3rem 2rem 3rem;
     }
 
     .footer .contact-info-holder {
